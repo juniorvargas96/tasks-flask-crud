@@ -1,0 +1,23 @@
+Pessoa 1 -------------- Pessoa 2
+
+API - Application Programming Interface
+
+          request>
+Cliente ------------ API --- API Server
+          <responde
+
+API REST -  Representational State Transfer
+
+                    URL
+                    /hello_world
+Cliente ---- HTTP --------- Servidor
+              GET
+              POST
+              PUT
+              DELET
+              PATCH
+
+
+Metodos de Requisição HTTP
+developer.mozilla.org
+
